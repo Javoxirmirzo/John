@@ -1,0 +1,18 @@
+header{
+    margin-left: 1200px;
+}
+li{
+    display:inline-block;
+    margin-left: 20px;
+}
+.blog1{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 550px;
+}
+.d10{
+    margin-top: 60px;
+    display:flex;
+    margin-left: 600px;
+    gap: 30px;
+}
