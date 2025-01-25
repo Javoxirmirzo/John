@@ -21,15 +21,3 @@ li{
     display: inline-block;
  margin-left: 20px;
 }
-.bottom{
-    margin-left: 148px;
-}
-.a{
-    margin-right: 800px;
-}
-.tarmoq{
-    margin-top: 60px;
-    display: flex;
-    margin-left: 600px;
-    gap: 30px;
-}
