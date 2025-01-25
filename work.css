@@ -1,0 +1,35 @@
+.d6{
+    display: flex;
+    margin-top: 100px;
+}
+
+.d7{
+    margin-left: 150px;
+    margin-right: 600px
+}
+.d8{
+    margin-left: 148px;
+}
+.h{
+    margin-left: 150px;
+    margin-top: 60px;
+}
+header{
+    margin-left: 1200px;
+}
+li{
+    display: inline-block;
+ margin-left: 20px;
+}
+.bottom{
+    margin-left: 148px;
+}
+.a{
+    margin-right: 800px;
+}
+.tarmoq{
+    margin-top: 60px;
+    display: flex;
+    margin-left: 600px;
+    gap: 30px;
+}
